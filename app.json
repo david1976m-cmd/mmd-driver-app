@@ -16,8 +16,10 @@
     "ios": {
       "supportsTablet": false,
       "bundleIdentifier": "com.matchmydriver.driverapp",
-      "buildNumber": "5",
+      "buildNumber": "7",
       "infoPlist": {
+        "CFBundleDisplayName": "MatchMyDriver",
+        "CFBundleName": "MatchMyDriver",
         "ITSAppUsesNonExemptEncryption": false
       },
       "runtimeVersion": "1.2.20"
