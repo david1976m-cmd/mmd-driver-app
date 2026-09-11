@@ -2,7 +2,7 @@
   "expo": {
     "name": "MatchMyDriver",
     "slug": "matchmydriver-driver",
-    "version": "1.2.19",
+    "version": "1.2.20",
     "orientation": "default",
     "icon": "./assets/images/icon.png",
     "scheme": "matchmydriver",
@@ -16,10 +16,11 @@
     "ios": {
       "supportsTablet": false,
       "bundleIdentifier": "com.matchmydriver.driverapp",
+      "buildNumber": "5",
       "infoPlist": {
         "ITSAppUsesNonExemptEncryption": false
       },
-      "runtimeVersion": "1.2.19"
+      "runtimeVersion": "1.2.20"
     },
     "android": {
       "adaptiveIcon": {
@@ -28,7 +29,7 @@
       },
       "package": "com.matchmydriver.driverapp",
       "googleServicesFile": "./google-services.json",
-      "runtimeVersion": "1.2.19",
+      "runtimeVersion": "1.2.20",
       "permissions": [
         "android.permission.RECEIVE_BOOT_COMPLETED",
         "android.permission.WAKE_LOCK"
