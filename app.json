@@ -28,6 +28,7 @@
         "backgroundColor": "#3b82f6"
       },
       "package": "com.matchmydriver.driverapp",
+      "versionCode": 8,
       "googleServicesFile": "./google-services.json",
       "runtimeVersion": "1.2.20",
       "permissions": [
